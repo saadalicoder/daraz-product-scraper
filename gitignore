@@ -1,0 +1,13 @@
+# Output files - test data, not meant for the repo
+*.xlsx
+scrape_progress.json
+
+# Python stuff
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
